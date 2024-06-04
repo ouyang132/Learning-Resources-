@@ -3,7 +3,7 @@ Read
 ## 计算机 
 ### 机器学习
 [1机器学习系统设计和实现](https://openmlsys.github.io/index.html)<br>
-[1].开发者学习路线图](https://roadmap.sh/)<br>
+[1开发者学习路线图](https://roadmap.sh/)<br>
 
 [2基于概率论的机器学习模型.](https://github.com/probml/pyprobml)<br>
 [3.机器学习常用算法](https://github.com/nosuggest/Reflection_Summary)<br>
