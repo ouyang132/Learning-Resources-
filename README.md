@@ -8,7 +8,8 @@ Read
 [2基于概率论的机器学习模型.](https://github.com/probml/pyprobml)<br>
 [3.机器学习常用算法](https://github.com/nosuggest/Reflection_Summary)<br>
 [4.区块链学习](https://github.com/Eternaldeath/blockchainHome)
-[5.前端CSS教程](https://github.com/pengfeiw/css-tutorial/blob/master/README.md)
+[6.前端CSS教程](https://github.com/pengfeiw/css-tutorial/blob/master/README.md)
+[7算法通关手册（leetCode）](https://algo.itcharge.cn/)
 
 ## 经济学
 [1.因果推断书籍学习路径图](https://www.bradyneal.com/which-causal-inference-book)<br>
