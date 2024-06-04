@@ -7,11 +7,11 @@ Read
 
 [2基于概率论的机器学习模型.](https://github.com/probml/pyprobml)<br>
 [3.机器学习常用算法](https://github.com/nosuggest/Reflection_Summary)<br>
-[4.区块链学习](https://github.com/Eternaldeath/blockchainHome)
-[6.前端CSS教程](https://github.com/pengfeiw/css-tutorial/blob/master/README.md)
-[7算法通关手册（leetCode）](https://algo.itcharge.cn/)
+[4.区块链学习](https://github.com/Eternaldeath/blockchainHome)<br>
+[6.前端CSS教程](https://github.com/pengfeiw/css-tutorial/blob/master/README.md)<br>
+[7算法通关手册（leetCode）](https://algo.itcharge.cn/)<br>
 ## 数据分析
-[1数据分析](https://github.com/hi-weijun/PythonDataScience-Collections)
+[1数据分析](https://github.com/hi-weijun/PythonDataScience-Collections)<br>
 ## 经济学
 [1.因果推断书籍学习路径图](https://www.bradyneal.com/which-causal-inference-book)<br>
 2.经济学青年大佬
