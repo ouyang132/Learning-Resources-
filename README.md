@@ -10,7 +10,8 @@ Read
 [4.区块链学习](https://github.com/Eternaldeath/blockchainHome)
 [6.前端CSS教程](https://github.com/pengfeiw/css-tutorial/blob/master/README.md)
 [7算法通关手册（leetCode）](https://algo.itcharge.cn/)
-
+## 数据分析
+[1数据分析](https://github.com/hi-weijun/PythonDataScience-Collections)
 ## 经济学
 [1.因果推断书籍学习路径图](https://www.bradyneal.com/which-causal-inference-book)<br>
 2.经济学青年大佬
