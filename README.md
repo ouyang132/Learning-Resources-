@@ -19,3 +19,5 @@ Read
 * 赵仁杰
 * 白俊红
 * 余泳泽
+## 统计学
+[1统计学自学指南](https://xuankaiwang.github.io/)
