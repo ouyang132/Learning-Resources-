@@ -31,5 +31,6 @@ Read
 * 董康银
 * 张大永
 * 姬强
+* 郭峰
 ## 统计学
 [1.统计学自学指南](https://xuankaiwang.github.io/)
