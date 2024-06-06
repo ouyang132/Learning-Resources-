@@ -17,7 +17,7 @@ Read
 [1.因果推断书籍学习路径图](https://www.bradyneal.com/which-causal-inference-book)<br>
 2.顶级大佬<br>
 * 洪银兴
-3.经济学青年大佬
+<br>3.经济学青年大佬
 * 冯晨
 * 范子英
 * 赵仁杰
