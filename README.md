@@ -15,7 +15,7 @@ Read
 [1.数据分析](https://github.com/hi-weijun/PythonDataScience-Collections)<br>
 ## 经济学
 [1.因果推断书籍学习路径图](https://www.bradyneal.com/which-causal-inference-book)<br>
-2.顶级大佬
+2.顶级大佬<br>
 * 洪银兴
 3.经济学青年大佬
 * 冯晨
