@@ -15,11 +15,18 @@ Read
 [1.数据分析](https://github.com/hi-weijun/PythonDataScience-Collections)<br>
 ## 经济学
 [1.因果推断书籍学习路径图](https://www.bradyneal.com/which-causal-inference-book)<br>
-2.经济学青年大佬
+2.顶级大佬
+* 洪银兴
+3.经济学青年大佬
 * 冯晨
 * 范子英
 * 赵仁杰
 * 白俊红
 * 余泳泽
+* 林伯强
+* 郝宇
+* 董康银
+* 张大永
+* 姬强
 ## 统计学
 [1.统计学自学指南](https://xuankaiwang.github.io/)
