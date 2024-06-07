@@ -13,9 +13,9 @@ Read
 [6.大模型](https://github.com/rasbt/LLMs-from-scratch)
 ### 前端
 [1.前端CSS教程](https://github.com/pengfeiw/css-tutorial/blob/master/README.md)<br>
-[2.系统学习前端](https://gitcode.com/qianguyihao/Web/overview?utm_source=csdn_github_accelerator)
-[3.前端学习权威详细网站](https://developer.mozilla.org/zh-CN/)
-[4.学习web开发](https://developer.mozilla.org/zh-CN/docs/Learn)
+[2.系统学习前端](https://gitcode.com/qianguyihao/Web/overview?utm_source=csdn_github_accelerator)<br>
+[3.前端学习权威详细网站](https://developer.mozilla.org/zh-CN/)<br>
+[4.学习web开发](https://developer.mozilla.org/zh-CN/docs/Learn)<br>
 
 ### 数据分析
 [1.数据分析](https://github.com/hi-weijun/PythonDataScience-Collections)<br>
