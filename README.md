@@ -13,6 +13,7 @@ Read
 [6.大模型](https://github.com/rasbt/LLMs-from-scratch)
 ### 前端
 [1.前端CSS教程](https://github.com/pengfeiw/css-tutorial/blob/master/README.md)<br>
+[2.系统学习前端](https://gitcode.com/qianguyihao/Web/overview?utm_source=csdn_github_accelerator)
 ### 数据分析
 [1.数据分析](https://github.com/hi-weijun/PythonDataScience-Collections)<br>
 ## 经济学
