@@ -10,6 +10,7 @@ Read
 [3.基于概率论的机器学习模型.](https://github.com/probml/pyprobml)<br>
 [4.机器学习常用算法](https://github.com/nosuggest/Reflection_Summary)<br>
 [5.pytorch学习](https://github.com/yufanmiao/eat_pytorch_in_20_days)<br>
+[6.大模型](https://github.com/rasbt/LLMs-from-scratch)
 ### 前端
 [1.前端CSS教程](https://github.com/pengfeiw/css-tutorial/blob/master/README.md)<br>
 ### 数据分析
