@@ -12,6 +12,7 @@ Read
 [4.机器学习常用算法](https://github.com/nosuggest/Reflection_Summary)<br>
 [5.pytorch学习](https://github.com/yufanmiao/eat_pytorch_in_20_days)<br>
 [6.大模型](https://github.com/rasbt/LLMs-from-scratch)
+[7.动手学习大模型](https://github.com/Lordog/dive-into-llms)
 ### 前端
 [1.前端CSS教程](https://github.com/pengfeiw/css-tutorial/blob/master/README.md)<br>
 [2.系统学习前端](https://gitcode.com/qianguyihao/Web/overview?utm_source=csdn_github_accelerator)<br>
