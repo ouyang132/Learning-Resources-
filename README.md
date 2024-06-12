@@ -47,3 +47,4 @@ Read
 * 郭峰
 ## 统计学
 [1.统计学自学指南](https://xuankaiwang.github.io/)
+[2.R统计](https://www.wvbauer.com/doku.php/live_streams)
