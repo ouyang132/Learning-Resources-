@@ -5,6 +5,7 @@ Read
 [2.区块链学习](https://github.com/Eternaldeath/blockchainHome)<br>
 [3.算法通关手册（leetCode）](https://algo.itcharge.cn/)<br>
 [4.精通计算机工具](https://missing-semester-cn.github.io/)<br>
+[5.sql学习](https://sqlzoo.net/wiki/SQL_Tutorial)
 ### 机器学习
 [1.机器学习系统设计和实现](https://openmlsys.github.io/index.html)<br>
 [2.大模型入门](https://github.com/km1994/LLMsNineStoryDemonTower/blob/main/detail.md)<br>
@@ -13,6 +14,7 @@ Read
 [5.pytorch学习](https://github.com/yufanmiao/eat_pytorch_in_20_days)<br>
 [6.大模型](https://github.com/rasbt/LLMs-from-scratch)<br>
 [7.动手学习大模型](https://github.com/Lordog/dive-into-llms)<br>
+[8.深度学习调参](https://junxnone.github.io/tpcn/#/)<br>
 ### 前端
 [1.前端CSS教程](https://github.com/pengfeiw/css-tutorial/blob/master/README.md)<br>
 [2.系统学习前端](https://gitcode.com/qianguyihao/Web/overview?utm_source=csdn_github_accelerator)<br>
