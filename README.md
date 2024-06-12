@@ -52,3 +52,5 @@ Read
 
 ## 币圈
 [1.基础知识](https://btcdayu.gitbook.io/dayu/tou-zi-jing-dian/tun-bi-te-bi)<br>
+## 大学课程
+[1.浙江大学](https://qsctech.github.io/zju-icicles/)<br>
