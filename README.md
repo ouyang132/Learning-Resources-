@@ -16,6 +16,8 @@ Read
 [7.动手学习大模型](https://github.com/Lordog/dive-into-llms)<br>
 [8.深度学习调参](https://junxnone.github.io/tpcn/#/)<br>
 [9.大语言模型LLM推理手册](https://github.com/DefTruth/Awesome-LLM-Inference)
+[10.机器学习算法](https://github.com/weixr18/MLAN)
+[11.机器学习资源大全中文版](https://github.com/jobbole/awesome-machine-learning-cn)
 ### 前端
 [1.前端CSS教程](https://github.com/pengfeiw/css-tutorial/blob/master/README.md)<br>
 [2.系统学习前端](https://gitcode.com/qianguyihao/Web/overview?utm_source=csdn_github_accelerator)<br>
