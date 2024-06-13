@@ -20,6 +20,7 @@ Read
 [9.大语言模型LLM推理手册](https://github.com/DefTruth/Awesome-LLM-Inference)<br>
 [10.机器学习算法](https://github.com/weixr18/MLAN)<br>
 [11.机器学习资源大全中文版](https://github.com/jobbole/awesome-machine-learning-cn)<br>
+[12.深度学习花书补充](https://github.com/MingchaoZhu/DeepLearning)<br>
 ### 前端
 [1.前端CSS教程](https://github.com/pengfeiw/css-tutorial/blob/master/README.md)<br>
 [2.系统学习前端](https://gitcode.com/qianguyihao/Web/overview?utm_source=csdn_github_accelerator)<br>
