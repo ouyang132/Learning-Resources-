@@ -60,4 +60,4 @@ Read
 ## 大学课程
 [1.浙江大学](https://qsctech.github.io/zju-icicles/)<br>
 ## 中文博客
-[一些博客](https://github.com/timqian/chinese-independent-blogs))
+[一些博客](https://github.com/timqian/chinese-independent-blogs)
