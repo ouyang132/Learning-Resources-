@@ -54,7 +54,8 @@ Read
 [1.统计学自学指南](https://xuankaiwang.github.io/)<br>
 [2.R统计](https://www.wvbauer.com/doku.php/live_streams)<br>
 [3.统计学笔记](https://chewisinho.github.io/class-notes)<br>
-
+## 数学
+[1.数学建模](https://github.com/datawhalechina/intro-mathmodel)<br>
 ## 币圈
 [1.基础知识](https://btcdayu.gitbook.io/dayu/tou-zi-jing-dian/tun-bi-te-bi)<br>
 ## 大学课程
