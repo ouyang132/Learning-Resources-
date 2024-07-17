@@ -51,7 +51,7 @@ Read
 * 姬强
 * 郭峰
 * 姜富伟
-  <br>[3.量化投资](https://github.com/zincsabian/Quantitative-Finance)<br>
+  <br>[4.量化投资](https://github.com/zincsabian/Quantitative-Finance)<br>
 ## 统计学
 [1.统计学自学指南](https://xuankaiwang.github.io/)<br>
 [2.R统计](https://www.wvbauer.com/doku.php/live_streams)<br>
