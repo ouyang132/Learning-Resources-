@@ -9,6 +9,8 @@ Read
 [6.python基础](https://github.com/jackfrued/Python-Core-50-Courses)[python100天](https://github.com/jackfrued/Python-100-Days)<br>
 [7.python实战](https://github.com/Jack-Cherish/PythonPark)<br>
 [8.python标准库](https://pymotw.com/3/index.html#)<br>
+[9.计算机编程语言](https://github.com/EbookFoundation/free-programming-books)<br>
+
 
 ### 机器学习
 [1.机器学习系统设计和实现](https://openmlsys.github.io/index.html)<br>
