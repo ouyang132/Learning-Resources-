@@ -10,6 +10,7 @@ Read
 [7.python实战](https://github.com/Jack-Cherish/PythonPark)<br>
 [8.python标准库](https://pymotw.com/3/index.html#)<br>
 [9.计算机编程语言](https://github.com/EbookFoundation/free-programming-books)<br>
+[10.Python与计量经济学](https://pyecon.org)</br>
 
 
 ### 机器学习
