@@ -30,6 +30,7 @@ Read
 [13.深度学习花书补充](https://github.com/MingchaoZhu/DeepLearning)<br>
 [14.ai大佬笔记](https://github.com/cbamls/AI_Tutorial)<br>
 [15.100天学习机器学习](https://bgithub.xyz/ouyang132/100-Days-Of-ML-Code)</br>
+[16.深度学习100例](https://bgithub.xyz/kzbkzb/Python-AI)</br>
 ### 前端
 [1.前端CSS教程](https://github.com/pengfeiw/css-tutorial/blob/master/README.md)<br>
 [2.系统学习前端](https://gitcode.com/qianguyihao/Web/overview?utm_source=csdn_github_accelerator)<br>
