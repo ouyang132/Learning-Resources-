@@ -12,6 +12,7 @@ Read
 [9.计算机编程语言](https://github.com/EbookFoundation/free-programming-books)<br>
 [10.Python与计量经济学](https://pyecon.org)</br>
 [11.计算机科学专注算法GeeksforGeeks](https://www.geeksforgeeks.org/)</br>
+[12.计算机全系列](https://github.com/sindresorhus/awesome)</br>
 
 
 ### 机器学习
