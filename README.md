@@ -33,6 +33,14 @@ Read
 [14.ai大佬笔记](https://github.com/cbamls/AI_Tutorial)<br>
 [15.100天学习机器学习](https://bgithub.xyz/ouyang132/100-Days-Of-ML-Code)</br>
 [16.深度学习100例](https://bgithub.xyz/kzbkzb/Python-AI)</br>
+[17.神经网络从0开始](https://github.com/karpathy/nn-zero-to-hero)</br>
+[18.大模型数据库](https://github.com/huggingface/transformers)</br>
+[19.jupyter手搓各种学习](https://github.com/fastai/fastbook)</br>
+[20.MLOps 课程](https://github.com/GokuMohandas/Made-With-ML)</br>
+[21.机器学习系统设计](https://github.com/chiphuyen/machine-learning-systems-design)</br>
+[22.互动深度学习](https://github.com/d2l-ai/d2l-en)</br>
+[23.生成式ai资源库](https://github.com/aishwaryanr/awesome-generative-ai-guide)</br>
+
 ### 前端
 [1.前端CSS教程](https://github.com/pengfeiw/css-tutorial/blob/master/README.md)<br>
 [2.系统学习前端](https://gitcode.com/qianguyihao/Web/overview?utm_source=csdn_github_accelerator)<br>
