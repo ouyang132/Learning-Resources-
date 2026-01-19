@@ -13,6 +13,7 @@ Read
 [10.Python与计量经济学](https://pyecon.org)</br>
 [11.计算机科学专注算法GeeksforGeeks](https://www.geeksforgeeks.org/)</br>
 [12.计算机全系列](https://github.com/sindresorhus/awesome)</br>
+[13.视觉学习论文](https://github.com/VisionXLab)</br>
 
 
 ### 机器学习
